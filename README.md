@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on natural language processing, computer vision, LLM
 - 📫 aaron.young@gwmail.gwu.edu
-- 😄 Pronouns: He/His/Him
+- 😄 Relationship: Single
 - ⚡ Fun fact: Nothing, so that is why I am fun.
 
 <!---
