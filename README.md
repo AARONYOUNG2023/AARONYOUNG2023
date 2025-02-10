@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Aaron Yang
-- 👀 I’m interested in Multimodal Large Language Model
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on natural language processing, computer vision, LLM
-- 📫 aaron.young@gwmail.gwu.edu
+- 👋 Name: Aaron Yang
+- 👀 Interest: Traveling, Writing(I love it because many novels are so bad)
+- 🌱 Major: Computer Science
+- 💞️ Research Interest: Natural language processing, computer vision, LLM
+- 📫 Academic Email: aaron.young@gwmail.gwu.edu
 - 😄 Relationship Status: Single
 - ⚡ Fun fact: Nothing, so that is why I am fun.
 
