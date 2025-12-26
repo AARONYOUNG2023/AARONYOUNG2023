@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yongpu-yang-3b0031274/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AARONYOUNG2023)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yongpuy@upenn.edu)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=notion&logoColor=white)](https://yongpuyang.notion.site/)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=AI+Software+Designer+%40+Accredited+Labs;MS+Data+Science+%7C+GWU+2025;MSE+Data+Science+%7C+UPenn+2027;Building+Intelligent+Systems" alt="Typing SVG" />
 
