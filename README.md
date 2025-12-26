@@ -39,28 +39,14 @@ me.say_hi()
 
 ## 🎓 Education
 
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UPenn_shield_with_banner.svg/200px-UPenn_shield_with_banner.svg.png" width="80" alt="UPenn"/>
-<br/>
-<strong>University of Pennsylvania</strong>
-<br/>
-MSE in Data Science
-<br/>
-<em>Expected 2027</em>
-</td>
-<td align="center" width="50%">
-<img src="https://brand.gwu.edu/sites/g/files/zaskib196/files/2023-11/preview_1-GW-Monogram-TM-navy-RGB%403x.png" width="80" alt="GWU"/>
-<br/>
-<strong>George Washington University</strong>
-<br/>
-MS in Data Science
-<br/>
-<em>Graduated 2025</em>
-</td>
-</tr>
-</table>
+<div align="center">
+
+| | Degree | Institution | Status |
+|:---:|:---|:---|:---:|
+| 🔴 | **MSE in Data Science** | University of Pennsylvania | Expected 2027 |
+| 🔵 | **MS in Data Science** | George Washington University | Graduated 2025 |
+
+</div>
 
 ---
 
@@ -117,15 +103,20 @@ MS in Data Science
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/AARONYOUNG2023">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AARONYOUNG2023&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AARONYOUNG2023&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=AARONYOUNG2023&show_icons=true&theme=tokyonight&hide_border=true" alt="Aaron's GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AARONYOUNG2023&theme=tokyonight&hide_border=true" alt="Aaron's GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AARONYOUNG2023&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AARONYOUNG2023&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
