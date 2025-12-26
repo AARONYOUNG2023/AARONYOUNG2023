@@ -50,6 +50,31 @@ me.say_hi()
 
 ---
 
+## 🚀 Projects
+
+<div align="center">
+
+### 💼 Work @ Accredited Labs
+| Project | Description |
+|:--------|:------------|
+| **AI Document Processing System** | Intelligent document analysis and extraction pipeline |
+| **ML-Powered Data Platform** | Scalable machine learning infrastructure for enterprise solutions |
+
+### 🌱 Startup Ventures
+| Project | Description |
+|:--------|:------------|
+| **GitBridge** | Bridging the gap in Git workflow management |
+| **H1B Master** | AI-powered H1B visa application assistant |
+
+### 📚 Academic Projects
+| Project | Description |
+|:--------|:------------|
+| **MedVision X-Ray** | AI-powered X-Ray diagnostic analysis and medical advisory system |
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -98,25 +123,6 @@ me.say_hi()
 | Text Analysis | Image Recognition | GPT/Claude | System Design |
 | Transformers | Object Detection | Fine-tuning | Scalable ML |
 | Sentiment | Segmentation | RAG Systems | MLOps |
-
-</div>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/AARONYOUNG2023">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AARONYOUNG2023&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AARONYOUNG2023&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AARONYOUNG2023&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
